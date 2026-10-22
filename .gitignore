@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+outputs/
+results/
+predictions/
+runs/
+wandb/
+
+# Data and model files (large; keep them out of git)
+data/
+raw_telemetry/
+*.mp4
+*.MP4
+*.avi
+*.mov
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Editors and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
