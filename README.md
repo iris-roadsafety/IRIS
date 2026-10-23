@@ -1,6 +1,6 @@
 # IRIS: Infrastructure-aware Multimodal Reasoning for Road Safety Auditing with Regulatory Compliance
 
-**Dataset:** [huggingface.co/datasets/VedulaAbhishek/IRIS](https://huggingface.co/datasets/VedulaAbhishek/IRIS)
+**Dataset:** [huggingface.co/datasets/IRIS-Roadsafety/IRIS](https://huggingface.co/datasets/IRIS-Roadsafety/IRIS)
 
 IRIS is a low-cost way to support road safety audits. It uses video, motion sensor (IMU) data, GPS and road rules from the Indian Roads Congress (IRC). The aim is to link events seen on the road (such as sudden braking or swerving) to the road condition, the place, and the IRC rule that applies. The result is a structured, evidence-based audit record that engineers can check.
 
@@ -9,7 +9,7 @@ The data was recorded with a camera and a phone on a two-wheeler during real rid
 ## Data
 
 The recorded data (GoPro video and phone sensor files) is on Hugging Face:
-https://huggingface.co/datasets/VedulaAbhishek/IRIS
+https://huggingface.co/datasets/IRIS-Roadsafety/IRIS
 
 ## What is in this repository
 
